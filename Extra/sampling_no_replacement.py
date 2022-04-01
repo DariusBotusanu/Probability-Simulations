@@ -16,7 +16,7 @@ So the probability is the proportion: 1-||difference||/||v_wanted||
 CURRENTLY WORKING ON IMPROVEMENT
 '''
 import numpy as np
-from scipy.special import comb #we import the n choose k fucntion
+from scipy.special import comb #we import the n choose k function
 
 def sampling_no_replacement(n, balls):
     '''
