@@ -6,5 +6,5 @@ A link to the book: https://www.worldscientific.com/worldscibooks/10.1142/11427
 However, the programs will often display more information than what is it required. The real probabilitites of the events are computed with steps in the book
 and they are an effective way to sharpen one's analytical skills.
 
-In the latest update the Extra section was added. It is an independent section with problems unrelated to the book, but I felt it fit in the
+An Extra section was added. It is an independent section with problems unrelated to the book, but I felt it fit in the
 project as it is ultimately on the same topic: probability simulations.
