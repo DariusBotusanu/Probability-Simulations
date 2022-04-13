@@ -11,7 +11,7 @@ What we will do:
     -   compute by simulations the probability that Mrs. Y and Mr. X
         meet in the park when they walk their dogs.
 
-Note: the theoretical probability is 0.6
+Note: the theoretical probability is 0.5
         
 Source: Hannelore Lisei, Wilfried Grecksch, Mihai Iancu - Probability: Theory, Examples, Problems, Simulations       
 
